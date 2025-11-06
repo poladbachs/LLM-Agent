@@ -2,8 +2,6 @@
 
 ![Image](https://github.com/user-attachments/assets/b5144ca5-442e-454a-9f49-7c70424506ce)
 
-**Just started building. Here's the general plan:**
-
 This project builds an **LLM-powered investment research agent** using the **Magentic** framework.  
 It connects large language models with real financial data sources to produce dynamic, explainable insights.
 
